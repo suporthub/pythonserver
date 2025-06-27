@@ -1,0 +1,4 @@
+2025-06-18 02:12:47,116 - INFO - service_provider - SERVICE PROVIDER ORDER EXECUTION - REQUEST: {"order_id": "8489660818", "cancel_id": null, "close_id": null, "modify_id": null, "stoploss_id": null, "takeprofit_id": null, "stoploss_cancel_id": null, "takeprofit_cancel_id": null, "order_status": "OPEN", "order_type": "BUY", "status": null, "order_price": "0.88808", "order_quantity": null, "margin": null, "close_price": null, "net_profit": null, "stop_loss": null, "take_profit": null, "contract_value": null, "commission": null, "swap": null, "cancel_message": null, "close_message": null}
+2025-06-18 02:12:47,127 - INFO - service_provider - SERVICE PROVIDER ORDER FOUND: order_id=8489660818, status=PROCESSING, user_id=4
+2025-06-18 02:12:47,127 - INFO - service_provider - SERVICE PROVIDER STATUS TRANSITION: PROCESSING -> OPEN
+2025-06-18 02:12:47,337 - INFO - service_provider - SERVICE PROVIDER ORDER OPENED: order_id=8489660818, status=OPEN
