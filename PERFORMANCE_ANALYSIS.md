@@ -1,3 +1,5 @@
+Added pendin cancel logic v1.1.9
+
 # Performance Analysis: Why the Simpler Version is Faster
 
 ## Overview
